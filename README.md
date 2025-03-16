@@ -13,13 +13,15 @@
 4.STM32_F1_1.44TFT - DMA   
   功能：3的功能升级使用DMA驱动屏幕
 
-
-////////////////////////////////
-5 .f103 foc注释版本
+5.STM32F103C6T6-FOC
+  功能：f103 FOC电机注释版本
 
 6。AIR103-AliCloud-sg90
+  功能：阿里云通过MQTT控制舵机旋转
 
 7.F103_SG90_MPU6050
+  功能：陀螺仪控制舵机同步旋转
 
 8.BreathLight （FPGA-lattice）
+  功能：Lattice FPGA 流水灯（这是一个fpga程序不是ARM程序）
 
