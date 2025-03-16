@@ -22,6 +22,11 @@
 7.F103_SG90_MPU6050
   功能：陀螺仪控制舵机同步旋转
 
+//////////////////////////////
+
 8.BreathLight （FPGA-lattice）
   功能：Lattice FPGA 流水灯（这是一个fpga程序不是ARM程序）
+
+公众号聊天智能体体验网址https://mbd.baidu.com/ma/s/7drR1lM3
+
 
