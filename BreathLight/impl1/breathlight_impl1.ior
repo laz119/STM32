@@ -1,0 +1,51 @@
+Loading design for application iotiming from file breathlight_impl1.ncd.
+Design name: PWM
+NCD version: 3.3
+Vendor:      LATTICE
+Device:      LCMXO2-4000HC
+Package:     CSBGA132
+Performance: 5
+Package Status:                     Final          Version 1.44.
+Performance Hardware Data Status:   Final          Version 34.4.
+Loading design for application iotiming from file breathlight_impl1.ncd.
+Design name: PWM
+NCD version: 3.3
+Vendor:      LATTICE
+Device:      LCMXO2-4000HC
+Package:     CSBGA132
+Performance: 6
+Package Status:                     Final          Version 1.44.
+Performance Hardware Data Status:   Final          Version 34.4.
+Loading design for application iotiming from file breathlight_impl1.ncd.
+Design name: PWM
+NCD version: 3.3
+Vendor:      LATTICE
+Device:      LCMXO2-4000HC
+Package:     CSBGA132
+Performance: M
+Package Status:                     Final          Version 1.44.
+Performance Hardware Data Status:   Final          Version 34.4.
+// Design: PWM
+// Package: CSBGA132
+// ncd File: breathlight_impl1.ncd
+// Version: Diamond (64-bit) 3.10.0.111.2
+// Written on Sun Jun 18 16:18:45 2023
+// M: Minimum Performance Grade
+// iotiming BreathLight_impl1.ncd BreathLight_impl1.prf -gui
+
+I/O Timing Report (All units are in ns)
+
+Worst Case Results across Performance Grades (M, 6, 5, 4):
+
+// Input Setup and Hold Times
+
+Port  Clock Edge  Setup Performance_Grade  Hold Performance_Grade
+----------------------------------------------------------------------
+(no input setup/hold data)
+
+
+// Clock to Output Delay
+
+Port  Clock Edge  Max_Delay Performance_Grade  Min_Delay Performance_Grade
+------------------------------------------------------------------------
+pwm   clk   R    14.303         4        3.701          M

@@ -1,0 +1,24 @@
+#Start recording tcl command: 6/18/2023 15:47:19
+#Project Location: H:/FPGA-Program/STEP-MXO2-V2/BreathLight; Project name: BreathLight
+H:/FPGA-Program/STEP-MXO2-V2/twist
+twist
+#Start recording tcl command: 6/18/2023 16:26:21
+#Project Location: H:/FPGA-Program/STEP-MXO2-V2/twist; Project name: twist
+prj_project open "H:/FPGA-Program/STEP-MXO2-V2/BreathLight/BreathLight.ldf"
+pgr_project open "H:/FPGA-Program/STEP-MXO2-V2/BreathLight/impl1/impl1.xcf"
+pgr_program run
+prj_run Export -impl impl1
+pgr_program run
+pgr_program run
+pgr_program run
+prj_run Export -impl impl1
+prj_run Export -impl impl1
+pgr_program run
+prj_run Export -impl impl1
+pgr_program run
+pgr_program run
+pgr_project save "H:/FPGA-Program/STEP-MXO2-V2/BreathLight/impl1/impl1.xcf"
+prj_project save
+prj_project close
+prj_project open "H:/FPGA-Program/STEP-MXO2-V2/twist/twist.ldf"
+#Stop recording: 6/18/2023 16:26:22

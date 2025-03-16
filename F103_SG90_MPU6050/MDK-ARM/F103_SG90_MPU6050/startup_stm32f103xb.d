@@ -1,0 +1,1 @@
+f103_sg90_mpu6050\startup_stm32f103xb.o: startup_stm32f103xb.s

@@ -1,0 +1,5 @@
+
+
+-g RamCfg:Reset
+
+-path "H:/FPGA-Program/STEP-MXO2-V2/BreathLight"  
